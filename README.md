@@ -12,7 +12,7 @@ improve in various areas and to forecast the sales for each store for the next 1
 
 Data Description:
 
-The dataset which is being used in the project is walmart_store.csv
+The dataset which is being used in the project is [walmart_store.csv](https://drive.google.com/file/d/1Ck2bzvBuP1noCXcqmgxQRKhOOgeeu5aY/view?usp=share_link)
 
 Dataset information:
 
